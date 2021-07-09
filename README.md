@@ -1,2 +1,2 @@
 # cloneflix
-Clone simples da netfliz
+Clone simples da netflix
